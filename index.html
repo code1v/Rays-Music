@@ -590,6 +590,7 @@ if('serviceWorker' in navigator) window.addEventListener('load',()=>navigator.se
 </script>
 
 <!-- ══════ FIREBASE MODULE SCRIPT ══════ -->
+<script src="config.js"></script>
 <script type="module">
 import { auth, provider, db } from "./firebase.js";
 import { signInWithPopup, onAuthStateChanged, signOut }
