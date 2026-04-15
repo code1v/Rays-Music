@@ -21,7 +21,7 @@ JioSaavn API	Music data
 
 ⚙️ Setup Instructions
 1️⃣ Clone repo
-git clone https://github.com/your-username/rays-music-player.git
+git clone https://github.com/code1v/rays-music-player.git
 cd rays-music-player
 2️⃣ Create config file
 
